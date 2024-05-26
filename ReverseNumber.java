@@ -12,6 +12,8 @@ public class ReverseNumber {
 		System.out.println(rev);
                 System.out.println("Hello");
                 System.out.println("Add one more file");
+                EvenNumber en=new EvenNumber();
+                en.m1();
 
 
 	}
